@@ -2,13 +2,25 @@
 
 <h1>Content</h1>
 
+- [Motivation and experience](#motivation-and-experience)
+- [Computer Science](#computer-science)
 - [Programming](#programming)
   - [Languages](#languages)
     - [JavaScript](#javascript)
   - [Frameworks for autotests](#frameworks-for-autotests)
     - [Cypress](#cypress)
+- [Roadmaps](#roadmaps)
+- [Useful info](#useful-info)
 
 ---
+
+# Motivation and experience
+
+- [📖 The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt (Author), David Thomas (Author)](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
+
+# Computer Science
+
+- [📖 Code: The Hidden Language of Computer Hardware and Software by Charles Petzold (Author)](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 
 # Programming
 ## Languages
@@ -32,3 +44,13 @@
 - [🆓📂 My Cypress Testrail Integration](https://github.com/Smoliarick/cypress-testrail-integration)
 - [🆓📂 My Cypress Discord Integration](https://github.com/Smoliarick/cypress-discord-webhook-integration)
 - [🆓📝 How to set up Cypress project for multiple environments](https://dev.to/smoliarick/how-to-run-autotests-for-several-environments-separate-in-one-cypress-project-cypress-project-monorepo-28pk)
+
+# Roadmaps
+
+- [🆓📂 C++ Developer Roadmap](https://github.com/salmer/CppDeveloperRoadmap)
+- [🆓📂 Different Roadmaps](https://github.com/kamranahmedse/developer-roadmap)
+- [🆓📂 Awesome Roadmaps](https://github.com/liuchong/awesome-roadmaps)
+
+# Useful info
+
+- [🆓📂 Awesome. Different useful info](https://github.com/sindresorhus/awesome)
