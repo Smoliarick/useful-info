@@ -5,10 +5,12 @@
 - [Motivation and experience](#motivation-and-experience)
 - [Computer Science](#computer-science)
 - [Programming](#programming)
+  - [Git](#git)
   - [Languages](#languages)
     - [JavaScript](#javascript)
     - [C](#c)
     - [C++](#c-1)
+    - [Dart](#dart)
   - [Frameworks for autotests](#frameworks-for-autotests)
     - [Cypress](#cypress)
 - [Testing](#testing)
@@ -28,6 +30,13 @@
 - [📖[Multi-lang] Code: The Hidden Language of Computer Hardware and Software by Charles Petzold (Author)](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
 
 # Programming
+
+- [🆓📖[EN] Programming Notes for Professionals books](https://books.goalkicker.com/)
+
+## Git
+
+- [🆓📖[Multi-lang]Pro Git book by Scott Chacon and Ben Straub](https://git-scm.com/book/en/v2)
+
 ## Languages
 ### JavaScript
 
@@ -46,6 +55,12 @@
 - [📖[Multi-lang] C++ Primer (5th Edition) by Stanley Lippman (Author), Josée Lajoie (Author), Barbara Moo (Author)](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
 - [📖[Multi-lang] C++ Primer Plus (Developer's Library) 6th Edition by Stephen Prata (Author)](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402)
 - [🆓🌐[EN] C++ reference](https://en.cppreference.com/w/cpp)
+
+### Dart
+
+- [📖[EN] Dart Apprentice: Fundamentals by Jonathan Sande](https://www.kodeco.com/books/dart-apprentice-fundamentals)
+- [📖[EN] Dart Apprentice: Beyond the Basics by Jonathan Sande](https://www.kodeco.com/books/dart-apprentice-beyond-the-basics)
+- [📖[EN] Data Structures & Algorithms in Dart by Jonathan Sande, Vincent Ngo, and Kelvin Lau](https://www.kodeco.com/books/data-structures-algorithms-in-dart)
 
 ## Frameworks for autotests
 ### Cypress
