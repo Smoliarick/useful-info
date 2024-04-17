@@ -100,6 +100,7 @@
 - [🆓📂[Multi-lang] C++ Developer Roadmap](https://github.com/salmer/CppDeveloperRoadmap)
 - [🆓📂[EN] Different Roadmaps](https://github.com/kamranahmedse/developer-roadmap)
 - [🆓📂[EN] Awesome Roadmaps](https://github.com/liuchong/awesome-roadmaps)
+- [🆓📂[EN] .NET Developer Roadmap](https://github.com/milanm/DotNet-Developer-Roadmap)
 
 # Useful info
 
