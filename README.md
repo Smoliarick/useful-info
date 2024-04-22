@@ -62,6 +62,7 @@
 - [📖[Multi-lang] C++ Primer (5th Edition) by Stanley Lippman (Author), Josée Lajoie (Author), Barbara Moo (Author)](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
 - [📖[Multi-lang] C++ Primer Plus (Developer's Library) 6th Edition by Stephen Prata (Author)](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402)
 - [🆓🌐[EN] C++ reference](https://en.cppreference.com/w/cpp)
+- [📖[EN] Professional C++ (Tech Today) 6th Edition by Marc Gregoire (Author)](https://www.amazon.com/Professional-C-Marc-Gregoire/dp/1394193173)
 
 ### Dart
 
