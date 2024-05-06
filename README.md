@@ -28,6 +28,8 @@
 # Computer Science
 
 - [📖[Multi-lang] Code: The Hidden Language of Computer Hardware and Software by Charles Petzold (Author)](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [🆓🎥[RU] Лекции преподавателя кафедры информатики МФТИ (Тимофей Хирьянов)](https://www.youtube.com/@tkhirianov)
+- [🆓🎥[RU] Лекции преподавателя кафедры информатики МФТИ (Константин Владимиров)](https://www.youtube.com/@tilir)
 
 # Git
 
@@ -39,6 +41,7 @@
 - [🆓📖[EN] Programming Notes for Professionals books](https://books.goalkicker.com/)
 - [🆓📂[Multi-lang] Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [🆓📂[EN] Project Based Learning - a list of programming tutorials in which aspiring software developers learn how to build an application from scratch](https://github.com/practical-tutorials/project-based-learning)
+- [🆓🎥[EN] Artificial Intelligence and Game Programming courses](https://www.youtube.com/@DaveChurchill)
 
 ## Languages
 ### JavaScript
@@ -63,6 +66,7 @@
 - [📖[Multi-lang] C++ Primer Plus (Developer's Library) 6th Edition by Stephen Prata (Author)](https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402)
 - [🆓🌐[EN] C++ reference](https://en.cppreference.com/w/cpp)
 - [📖[EN] Professional C++ (Tech Today) 6th Edition by Marc Gregoire (Author)](https://www.amazon.com/Professional-C-Marc-Gregoire/dp/1394193173)
+- [📖[Multi-lang] A Tour of C++ (3rd edition) by Bjarne Stroustrup (Author)](https://www.amazon.com/Tour-C-Bjarne-Stroustrup/dp/0136816487)
 
 ### Dart
 
