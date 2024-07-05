@@ -1,25 +1,4 @@
-<h1>Useful info</h1>
-
-<h1>Table of Contents:</h1>
-
-- [Motivation and experience](#motivation-and-experience)
-- [Computer Science](#computer-science)
-- [Git](#git)
-- [Programming](#programming)
-  - [Languages](#languages)
-    - [JavaScript](#javascript)
-    - [C](#c)
-    - [C++](#c-1)
-    - [Dart](#dart)
-  - [Frameworks for autotests](#frameworks-for-autotests)
-    - [Cypress](#cypress)
-- [Testing](#testing)
-  - [Base](#base)
-  - [API](#api)
-- [Roadmaps](#roadmaps)
-- [Useful info](#useful-info)
-
----
+# Useful info
 
 # Motivation and experience
 
@@ -54,6 +33,7 @@
 - [🆓📂[EN] Prettier is an opinionated code formatter](https://github.com/prettier/prettier)
 - [🆓📂[EN] Lint-staged - run linters against staged git files and don't let 💩 slip into your code base!](https://github.com/lint-staged/lint-staged)
 - [🆓📂[EN] Husky improves your commits and more 🐶 woof!](https://github.com/typicode/husky)
+- [🆓🌐[EN] JavaScript Cheat-Sheet](https://www.javascriptcheatsheet.org/)
 
 ### C
 
@@ -73,6 +53,11 @@
 - [📖[EN] Dart Apprentice: Fundamentals by Jonathan Sande](https://www.kodeco.com/books/dart-apprentice-fundamentals)
 - [📖[EN] Dart Apprentice: Beyond the Basics by Jonathan Sande](https://www.kodeco.com/books/dart-apprentice-beyond-the-basics)
 - [📖[EN] Data Structures & Algorithms in Dart by Jonathan Sande, Vincent Ngo, and Kelvin Lau](https://www.kodeco.com/books/data-structures-algorithms-in-dart)
+
+### Python
+
+- [🆓🌐[EN] Python Cheat-Sheet](https://www.pythoncheatsheet.org/)
+- [🌐[EN] Python documentation](https://docs.python.org/3/)
 
 ## Frameworks for autotests
 ### Cypress
